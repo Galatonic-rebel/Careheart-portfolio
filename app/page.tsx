@@ -124,7 +124,6 @@ export default function Home() {
                 <p>Python</p>
                 <p>Machine Learning</p>
                 <p>DL Fundamentals</p>
-                <p>Deep Learning</p>
                 <p>Analytical Skills</p>
                 <p>Strong English Proficiency</p>
 
